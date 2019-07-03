@@ -12,8 +12,8 @@
 
 /*
  * MEMORY_SIZE  The memory size in bytes.
- *              z.B. 1 Megabyte -> 1000000 Bytes
- *                   1 Mebibyte -> 1048576 Bytes
+ *              eg. 1 Megabyte -> 1000000 Bytes
+ *                  1 Mebibyte -> 1048576 Bytes
  *
  * BLOCK_SIZE   The size of an address block in bytes.
  *              1   ->   8-Bit address   ->   eg. 10110000 = 176
